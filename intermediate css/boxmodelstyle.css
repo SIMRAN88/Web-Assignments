@@ -1,0 +1,12 @@
+h1
+{
+	width:200px;
+border:2px solid blue;
+}
+p
+{
+	width:50%;
+	border: 2px solid blue;
+	padding-left:50px;
+	margin:20px 40px 50px 70px;
+}

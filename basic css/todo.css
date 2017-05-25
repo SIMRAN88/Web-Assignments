@@ -1,0 +1,20 @@
+body
+{
+background:orange;
+}
+
+li
+{
+	border: 2px solid red;
+}
+
+#me
+{
+border:2px solid blue;
+background:yellow;
+}	
+
+.new
+{
+	text-decoration:line-through;
+}	
